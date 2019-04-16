@@ -7,6 +7,7 @@
 int main()
 {
     std::cout << "gecciar"; 
+	//commento di modifica
 }
 
 // Per eseguire il programma: CTRL+F5 oppure Debug > Avvia senza eseguire debug
